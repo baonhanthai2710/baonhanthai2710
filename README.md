@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently Study at HCMUTE <br>💬 My goal is to pursue a career in frontend development.
+🌱 I’m currently Study at HCMUTE <br>
 
 
 ## 🌐 Socials:
